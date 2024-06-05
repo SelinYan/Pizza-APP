@@ -52,10 +52,11 @@ https://selinyan.github.io/Pizza-APP/
 ## Project Structure
 
 Pizza-APP/
-├── index.html
-├── style.css
-├── main.js
-└── README.md
+
+- index.html
+- style.css
+- main.js
+- README.md
 
 ## Contributing
 
